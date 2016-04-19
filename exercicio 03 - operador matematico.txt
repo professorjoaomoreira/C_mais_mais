@@ -1,0 +1,7 @@
+Exercícios
+
+Exercício 1 – Faça um programa onde o usuário entre com o valor de 4 notas e o algoritmo mostre a média aritmética.
+
+Exercício 2 – Faça um programa onde o usuário entre com um valor em graus fahrenheit e o programa mostre a temperatura em celsius. Nota(cel = (fahr-32)*5/9)
+
+Exercício 3 – Faça um programa onde o usuário digite sua idade em anos e o programa mostre a respectiva idade em dias (vamos desconsiderar os meses e dias de vida).

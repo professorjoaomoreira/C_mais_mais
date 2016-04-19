@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2016/04/19 16:18:49.728,=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/04/19 16:18:49.785,=C:\Users\joao\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2016/04/19 16:22:25.618,C:\Users\joao\Desktop\conversao fahr em celsius.cpp=C:\Users\joao\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2016/04/19 16:30:37.708,C:\Users\joao\Desktop\idade em dias.cpp=C:\Users\joao\Desktop\conversao fahr em celsius.cpp</Transaction>
+    <Transaction>2016/04/19 16:44:03.515,C:\Users\joao\Desktop\Project1PCH1234.h=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/04/19 16:44:08.040,C:\Users\joao\Desktop\Project123.cbproj=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
