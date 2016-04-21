@@ -3,7 +3,7 @@
 	void main()
 	{
 		cout<<"Ola Mundo!!!"<<endl;
-		cout<<"Onde esta Venus, planeta vermelho";
+		cout<<"Onde esta Venus";
 		getch();
 	}
 

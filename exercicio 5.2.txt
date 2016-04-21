@@ -1,0 +1,22 @@
+Exercícios 5.2
+
+Exercício 4 – Faça um programa onde o usuário entre com 3 valores inteiros que serão armazenados nas variáveis x, y, z respectivamente, e o programa deverá ordenar esses valores de modo que o menor valor esteja em x, o valor intermediário em y e o maior valor em z.
+
+Exercício 5 – Faça um programa onde o usuário informa uma letra e o programa diz se é vogal ou consoante.-
+
+Exercício 6 – Faça um programa onde o usuário digite a idade de um jogador de futebol e o programa mostre sua categoria de acordo com as seguintes condições:
+Se a idade for inferior a 5 anos -> idade invalida
+Se a idade for maior ou igual a 5 e menor ou igual a 7 -> infantil A
+Se a idade for maior que 7 e menor ou igual a 10 -> infantil B
+Se a idade for maior que 10 e menor ou igual a 13 -> juvenil A
+Se a idade for maior que 13 e menor ou igual a 17 -> juvenil B
+Se a idade for maior ou igual a 18 -> adulto
+
+Exercício 7 – Faça um Um programa que calcule e mostre o imc do usuário e uma das seguintes informações de acordo com o que segue:
+Abaixo de 17 -> Muito abaixo do peso
+Entre 17 e 18,49 -> Abaixo do peso
+Entre 18,5 e 24,99 -> Peso Normal
+Entre 25 e 29,99 -> Acima do peso
+Entre 30 e 34,99 -> Obesidade I
+Entre 35 e 39,99 -> Obesidade II (severa)
+Acima 40 -> Obesidade III (mórbida)
