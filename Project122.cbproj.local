@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2016/04/22 16:05:43.379,=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/04/22 16:05:43.419,=C:\Users\joao\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2016/04/22 16:12:31.734,C:\Users\joao\Desktop\correcao triangulos com switch.cpp=C:\Users\joao\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2016/04/22 16:15:34.567,C:\Users\joao\Desktop\correcao triangulos com switch1.cpp=C:\Users\joao\Desktop\correcao triangulos com switch.cpp</Transaction>
+    <Transaction>2016/04/22 16:20:07.973,C:\Users\joao\Desktop\conversao de graus usando menu swit case1.cpp=C:\Users\joao\Desktop\correcao triangulos com switch1.cpp</Transaction>
+    <Transaction>2016/04/22 17:01:47.327,C:\Users\joao\Desktop\trabuada usando o for.cpp=C:\Users\joao\Desktop\conversao de graus usando menu swit case1.cpp</Transaction>
+    <Transaction>2016/04/22 17:07:17.688,C:\Users\joao\Desktop\faca vc mesmo sua tabuada com for.cpp=C:\Users\joao\Desktop\trabuada usando o for.cpp</Transaction>
+    <Transaction>2016/04/22 17:23:36.223,C:\Users\joao\Desktop\fatorial usando for.cpp=C:\Users\joao\Desktop\faca vc mesmo sua tabuada com for.cpp</Transaction>
+    <Transaction>2016/04/22 17:24:39.463,C:\Users\joao\Desktop\par ou impar usando for.cpp=C:\Users\joao\Desktop\fatorial usando for.cpp</Transaction>
+    <Transaction>2016/04/22 18:47:55.753,C:\Users\joao\Desktop\Project1PCH122.h=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/04/22 18:48:02.287,C:\Users\joao\Desktop\Project122.cbproj=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

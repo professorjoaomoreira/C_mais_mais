@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/04/21 13:07:02.000.316,=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/04/21 13:07:02.000.412,=C:\Users\joao\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2016/04/21 13:12:52.000.436,C:\Users\joao\Desktop\obsidade morbida.cpp=C:\Users\joao\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2016/04/21 19:24:27.000.078,C:\Users\joao\Desktop\vogal com operador logico ou.h=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/04/21 19:24:56.000.925,C:\Users\joao\Desktop\vogal com operador logico ou.cbproj=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2016/04/21 19:28:40.000.402,C:\Users\joao\Desktop\obsidade morbida.cpp=C:\Users\joao\Desktop\vogal com operador logico ou.cpp</Transaction>
+    <Transaction>2016/04/21 20:01:29.000.971,C:\Users\joao\Desktop\vogal com operador logico ou.cpp=C:\Users\joao\Desktop\calculadora usando swit.cpp</Transaction>
+    <Transaction>2016/04/22 00:12:13.000.985,C:\Users\joao\Desktop\calculadora usando swit.cpp=C:\Users\joao\Desktop\calcular valor de triangulos.cpp</Transaction>
+    <Transaction>2016/04/22 14:00:54.667,C:\Users\joao\Desktop\conversao de graus usando menu swit case.cpp=C:\Users\joao\Desktop\calcular valor de triangulos.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

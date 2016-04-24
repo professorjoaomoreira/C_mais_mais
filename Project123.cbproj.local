@@ -1,11 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2016/04/19 16:18:49.728,=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2016/04/19 16:18:49.785,=C:\Users\joao\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
-    <Transaction>2016/04/19 16:22:25.618,C:\Users\joao\Desktop\conversao fahr em celsius.cpp=C:\Users\joao\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
-    <Transaction>2016/04/19 16:30:37.708,C:\Users\joao\Desktop\idade em dias.cpp=C:\Users\joao\Desktop\conversao fahr em celsius.cpp</Transaction>
-    <Transaction>2016/04/19 16:44:03.515,C:\Users\joao\Desktop\Project1PCH1234.h=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2016/04/19 16:44:08.040,C:\Users\joao\Desktop\Project123.cbproj=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+	<Transactions>
+    <Transaction>2016/04/23 12:02:09.000.702,=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/04/23 12:02:09.000.751,=C:\Users\joao\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2016/04/23 12:08:44.000.966,C:\Users\joao\Documents\Embarcadero\Studio\Projects\File1.cpp=C:\Users\joao\Desktop\multiplo de 3 usando for.cpp</Transaction>
+    <Transaction>2016/04/23 12:38:24.000.330,C:\Users\joao\Desktop\multiplo de 3 usando for.cpp=C:\Users\joao\Desktop\informe um numero que mostre seus multiplos usando for.cpp</Transaction>
+    <Transaction>2016/04/23 12:50:52.000.128,C:\Users\joao\Desktop\informe um numero que mostre seus multiplos usando for.cpp=C:\Users\joao\Desktop\faca um algoritmo que mostre as letras de a ate z.cpp</Transaction>
+    <Transaction>2016/04/23 13:02:58.000.589,C:\Users\joao\Desktop\faca um algoritmo que mostre as letras de a ate z.cpp=C:\Users\joao\Desktop\faca um algoritmo que mostre as letras que usuario desejar  ate z.cpp</Transaction>
+    <Transaction>2016/04/23 13:08:18.000.139,C:\Users\joao\Desktop\faca um algoritmo que mostre as letras que usuario desejar  ate z.cpp=C:\Users\joao\Desktop\faca uma tabuada onde o usuario escolha o valor a ser tabuado.cpp</Transaction>
+    <Transaction>2016/04/23 13:53:08.000.731,C:\Users\joao\Desktop\faca uma tabuada onde o usuario escolha o valor a ser tabuado.cpp=C:\Users\joao\Desktop\tabuada laco externo e laco interno.cpp</Transaction>
+    <Transaction>2016/04/23 14:07:16.000.306,C:\Users\joao\Desktop\tabuada laco externo e laco interno.cpp=C:\Users\joao\Desktop\tabuada do 1 ao 10 com laco interno e externo.cpp</Transaction>
+    <Transaction>2016/04/23 23:37:55.000.868,C:\Users\joao\Desktop\tabuada do 1 ao 10 com laco interno e externo.cpp=C:\Users\joao\Desktop\fatorial usando while.cpp</Transaction>
+    <Transaction>2016/04/23 23:41:56.000.169,C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\joao\Desktop\Project1PCH123.h</Transaction>
+    <Transaction>2016/04/23 23:42:04.000.459,C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\joao\Desktop\Project123.cbproj</Transaction>
+    <Transaction>2016/04/24 00:05:10.493,C:\Users\joao\Desktop\calculo do imc usando do while.cpp=C:\Users\joao\Desktop\fatorial usando while.cpp</Transaction>
+    <Transaction>2016/04/24 00:09:32.457,C:\Users\joao\Desktop\mostras letras que usuario desejar de a z usando while.cpp=C:\Users\joao\Desktop\calculo do imc usando do while.cpp</Transaction>
   </Transactions>
 </BorlandProject>
