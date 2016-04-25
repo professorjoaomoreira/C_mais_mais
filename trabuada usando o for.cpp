@@ -10,11 +10,3 @@ void main()
 		cout<<"6 X " <<i<< " = " <<6*i<<endl;
 	getch();
   }
-
-
-
-
-
-
-
-

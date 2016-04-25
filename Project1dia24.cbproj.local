@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2016/04/24 07:57:14.971,=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/04/24 07:57:15.022,=C:\Users\joao\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2016/04/24 07:58:28.089,C:\Users\joao\Desktop\vetores.cpp=C:\Users\joao\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2016/04/24 08:19:49.029,C:\Users\joao\Desktop\exercicio1 sobre vetores.cpp=C:\Users\joao\Desktop\vetores.cpp</Transaction>
+    <Transaction>2016/04/24 08:27:09.669,C:\Users\joao\Desktop\exercicio2 sobre vetores.cpp=C:\Users\joao\Desktop\exercicio1 sobre vetores.cpp</Transaction>
+    <Transaction>2016/04/24 08:33:08.354,C:\Users\joao\Desktop\entrar com 50 valores e organizar em ordem crescente.cpp=C:\Users\joao\Desktop\exercicio2 sobre vetores.cpp</Transaction>
+    <Transaction>2016/04/24 08:56:49.625,C:\Users\joao\Desktop\aprendendo strings.cpp=C:\Users\joao\Desktop\entrar com 50 valores e organizar em ordem crescente.cpp</Transaction>
+    <Transaction>2016/04/24 09:06:57.356,C:\Users\joao\Desktop\concatenacao de strings.cpp=C:\Users\joao\Desktop\aprendendo strings.cpp</Transaction>
+    <Transaction>2016/04/24 09:14:32.440,C:\Users\joao\Desktop\string len contando o numero de caracteres.cpp=C:\Users\joao\Desktop\concatenacao de strings.cpp</Transaction>
+    <Transaction>2016/04/24 09:18:47.694,C:\Users\joao\Desktop\comparacao de duas strings.cpp=C:\Users\joao\Desktop\string len contando o numero de caracteres.cpp</Transaction>
+    <Transaction>2016/04/24 09:29:24.588,C:\Users\joao\Desktop\exercicio01 sobre strings.cpp=C:\Users\joao\Desktop\comparacao de duas strings.cpp</Transaction>
+    <Transaction>2016/04/24 09:44:41.198,C:\Users\joao\Desktop\exercicio01 sobre strings segunda alternativa com copiador de strings.cpp=C:\Users\joao\Desktop\exercicio01 sobre strings.cpp</Transaction>
+    <Transaction>2016/04/24 12:56:30.032,C:\Users\joao\Desktop\jogar par ou impar com o computador quantas vezes quiser usando vetor string do while.cpp=C:\Users\joao\Desktop\exercicio01 sobre strings segunda alternativa com copiador de strings.cpp</Transaction>
+    <Transaction>2016/04/24 13:23:20.750,C:\Users\joao\Desktop\programa para testar palindromos.cpp=C:\Users\joao\Desktop\jogar par ou impar com o computador quantas vezes quiser usando vetor string do while.cpp</Transaction>
+    <Transaction>2016/04/24 14:12:04.783,C:\Users\joao\Desktop\digitar uma frase e contar contas vezes uma letra aparece na frase.cpp=C:\Users\joao\Desktop\programa para testar palindromos.cpp</Transaction>
+    <Transaction>2016/04/24 14:41:26.472,C:\Users\joao\Desktop\Project1PCH1dia24.h=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/04/24 14:41:33.536,C:\Users\joao\Desktop\Project1dia24.cbproj=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
